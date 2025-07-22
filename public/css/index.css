@@ -1,0 +1,18 @@
+@import url(global.css);
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid black;
+    margin: 150px 500px;
+    width: 450px;
+    height: 250px;
+}
+
+#inputs-form {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
