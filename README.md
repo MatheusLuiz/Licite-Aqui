@@ -74,31 +74,9 @@ A API estará disponível em: http://localhost:3000
 📌 Observações
 O projeto está em desenvolvimento ativo.
 
-Contribuições são bem-vindas! Veja abaixo como contribuir.
-
-🤝 Como Contribuir
-Faça um fork do repositório
-
-Crie uma branch:
-
-bash
-Copiar
-Editar
-git checkout -b minha-feature
-Faça suas alterações e commit:
-
-bash
-Copiar
-Editar
-git commit -m 'Adiciona nova feature'
-Envie para o repositório remoto:
-
-bash
-Copiar
-Editar
-git push origin minha-feature
-Abra um Pull Request
+Contribuições são bem-vindas! Entre em Contato
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
 
