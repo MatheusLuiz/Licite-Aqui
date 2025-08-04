@@ -25,8 +25,8 @@ Este é o projeto **TI Sociedade**, Desenvolvida como projeto final de empresa r
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Andreikgs/projeto-ti-sociedade_back.git
-cd projeto-ti-sociedade_back
+git clone https://github.com/MatheusLuiz/Licite-Aqui
+cd Licite-Aqui
 Instale as dependências:
 
 bash
@@ -72,6 +72,7 @@ Contribuições são bem-vindas! Entre em Contato
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
 
 
 
