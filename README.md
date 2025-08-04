@@ -30,8 +30,6 @@ cd Licite-Aqui
 Instale as dependências:
 
 bash
-Copiar
-Editar
 npm install
 Configure o arquivo .env:
 
@@ -72,6 +70,7 @@ Contribuições são bem-vindas! Entre em Contato
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
 
 
 
