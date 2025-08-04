@@ -38,8 +38,6 @@ Configure o arquivo .env:
 Crie um arquivo .env na raiz do projeto com o seguinte conteúdo:
 
 env
-Copiar
-Editar
 DB_NAME=nome_do_banco
 DB_USER=usuario
 DB_PASSWORD=senha
@@ -49,16 +47,12 @@ PORT=3000
 Execute as migrações ou sincronize os modelos:
 
 bash
-Copiar
-Editar
 npx sequelize db:migrate
 # ou
 npm run dev
 Inicie o servidor:
 
 bash
-Copiar
-Editar
 npm start
 A API estará disponível em: http://localhost:3000
 
@@ -78,5 +72,6 @@ Contribuições são bem-vindas! Entre em Contato
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
 
 
