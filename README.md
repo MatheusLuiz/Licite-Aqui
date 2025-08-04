@@ -1,6 +1,6 @@
 # 🏙️ Licite Aqui
 
-Este é o projeto **TI Sociedade**, Desenvolvida como projeto final de empresa real para uma aplicação Web, usando Node.js que oferece suporte para funcionalidades de gestão comunitária, com foco em sustentabilidade, governança e participação social.
+Este é o projeto **Licite Aqui**, Desenvolvida como projeto final de empresa real para uma aplicação Web, usando Node.js que oferece suporte para funcionalidades de gestão comunitária, com foco em sustentabilidade, governança e participação social.
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -70,6 +70,7 @@ Contribuições são bem-vindas! Entre em Contato
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
 
 
 
