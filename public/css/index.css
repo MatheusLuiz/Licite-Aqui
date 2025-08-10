@@ -1,24 +1,2 @@
 @import url(global.css);
 
-body {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    font: var(--text);
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-
-    border: 1px solid black;
-    border-radius: 5px;
-    
-    width: 350px;
-    height: 400px;
-}
-
